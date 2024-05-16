@@ -22,9 +22,9 @@ ___
 
 ____
 ## Software & Tech I like
-| Software | Use |
+| Software | Flavors |
 | ------ | ------ |
-| Systems OS      Linux      Ubuntu      Windows |
+| Systems|  OS      Linux      Ubuntu      Windows |
 | Methodologies | Agile/Scrum      GitFlow      Pair      Programming      Unit/Integration      Testing      CI/CD |
 | Languages | Python      Typescript      Javascript      Bash      REST/Json      CSS      HTML      mySQL      SQL      noSQL |
 | Software Tools | Amazon      Web      Services      Terraform      CDK      NodeJs      Azure      Jenkins      JIRA      Git      GitHub      Bit Bucket      PyCharm      VSCode      Django      Flask      Turbot      Cloud      Conformity      Insigh tCloud Security / Divvy Cloud      Pandas/SciKitLearn      rdKit      OpenEye |
